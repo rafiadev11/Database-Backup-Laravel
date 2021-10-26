@@ -1,0 +1,19 @@
+{
+    "name": "aracademia/laraveldatabasebackup",
+    "description": "Allow developers to backup their application's database",
+    "type": "database",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Rachid Rafia",
+            "email": "rrafiatech@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Aracademia\\LaravelDatabaseBackup\\": "src/"
+        }
+    },
+    "minimum-stability": "stable",
+    "require": {}
+}
